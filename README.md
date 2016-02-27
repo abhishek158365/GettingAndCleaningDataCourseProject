@@ -1,7 +1,8 @@
 # GettingAndCleaningDataCourseProject
 Scripts and codebooks for course project : Getting and Cleaning Data
 
-This repo contains 3 files
+This repo contains 3 files - 
+
 1. run_analysis.R - contains a commented script for getting, cleaning and summarizing the UCI HAR dataset
 2. CodeBook.md - contains a description of variables in the data
 3. tidy.txt - the final output 
